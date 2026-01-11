@@ -17,3 +17,5 @@ films.forEach(film => {
   `;
   filmList.appendChild(li);
 });
+<head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8722521161742523"
+     crossorigin="anonymous"></script></head>
