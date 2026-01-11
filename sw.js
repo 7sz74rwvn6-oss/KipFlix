@@ -1,6 +1,6 @@
 self.addEventListener("install", e => {
   e.waitUntil(
-    caches.open("kipflix").then(cache => {
+    caches.open("hdfilmci").then(cache => {
       return cache.addAll([
         "index.html",
         "player.html"
