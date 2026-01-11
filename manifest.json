@@ -1,6 +1,6 @@
 {
-  "name": "KipFlix",
-  "short_name": "KipFlix",
+  "name": "HdFilmci",
+  "short_name": "HdFilmci",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#000000",
